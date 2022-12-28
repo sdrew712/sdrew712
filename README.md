@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm aa full stack developer.
+🌱 I'm a full stack developer.
 
 
 📫 How to reach me: https://www.linkedin.com/in/sarah-drew-dev/
